@@ -7,5 +7,7 @@ public: // akses modifier
 	int umur;
 	string jurusan;
 
-	void input(){}
+	void output() {
+		cout << "Nama: " << nama << endl;
+	}
 };
