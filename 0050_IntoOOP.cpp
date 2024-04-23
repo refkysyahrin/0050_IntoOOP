@@ -31,4 +31,14 @@ class Matakuliah {
 			cin >> sks;
 		}
 
+		void output() {
+			Mahasiswa mhs;
+			Matakuliah mk;
+
+			mhs.nama = "Budi"
+			mhs.umur = 20;
+			mhs.jurusan = "Teknik Informatika";
+			mhs.output();
+		}
+
 };
