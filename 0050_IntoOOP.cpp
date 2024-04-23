@@ -6,4 +6,6 @@ public: // akses modifier
 	string nama;
 	int umur;
 	string jurusan;
+
+	void input(){}
 };
