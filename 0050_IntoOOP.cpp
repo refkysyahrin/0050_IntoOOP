@@ -23,7 +23,8 @@ class Matakuliah {
 		int sks;
 	public:
 		void input() {
-
+			cout << "Kode Mk:";
+			cin >> kodeMk;
 		}
 
 };
